@@ -12,4 +12,8 @@
 
 5. Payment due upon completion of sprint. If the Contractor completes early, Company pays early. Complete means all features implemented per sprint's design spec and software passes Company SQA (typically takes less than 48 hours).
 
+## Bid Procedure
+
+Please paste our developer agreement above into your bid. Set completion date to be one week later than when you expect to be code complete, so we have time for testing. Do not break payments into milestones. Bid for the entire sprint.
+
 -000-
