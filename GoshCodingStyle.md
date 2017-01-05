@@ -10,7 +10,7 @@ By Robin Rowe 2016/12/18 rev. 2016/1/5
 
 2. Display the version # when the program runs. Use printf() in a console app or display it in the About box for a GUI app.
 
-3. Bump the version number whenever you development is "done". That is, for each build turned over for testing. So, at the end of your sprint or end of an SQA clean-up. Note there is "done" and "done-done". "Done" means code complete or bug fixes completed. "Done-done" means tested and signed off.
+3. Bump the version number whenever you development is "done". That is, for each build turned over for testing, at the end of your sprint or end of an SQA clean-up. Note there is "done" and "done-done". "Done" means code complete or bug fixes completed. "Done-done" means tested and signed off.
 
 ## Naming Conventions
 
