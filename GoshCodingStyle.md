@@ -70,25 +70,24 @@ Not...
 	{	int x;
 		int y;
 		int z;
+		Trace();
 	public:
 		Point()
 		:	x(0)
 		,	y(0)
 		,	z(0)
 		{}
+		Point(int x,int y,int z)
+		:	x(x)
+		,	y(y)
+		,	z(z)
+		{}
+		Print();
 	};
 
 1. Use comma-first in initializer (only). 
 
 2. Organize class members with private members first. This is the default for classes, so no need to specify private. (Private members first because it makes code review go faster.) 
-
-	class Foo
-	{	int x;
-		void DangerousBar();
-	public:
-		Foo();
-		Bar();
-	};
 
 ## OOP
 
