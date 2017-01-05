@@ -6,7 +6,7 @@ By Robin Rowe 2016/12/18 rev. 2
 
 1. Create a Version.h file that contains:
 
-	#define PROGRAM_VERSION "0.1"
+	\#define PROGRAM_VERSION "0.1"
 
 2. Display the version # when the program runs. Use printf() in a console app or display it in the About box for a GUI app.
 
@@ -23,7 +23,9 @@ By Robin Rowe 2016/12/18 rev. 2
 	// MyClass.h Short description here...
 	
 	\#ifndef MyClass_h
+	
 	\#define MyClass_h
+	
 	...
 	\#endif
 
