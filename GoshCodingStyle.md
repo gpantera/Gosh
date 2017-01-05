@@ -1,6 +1,6 @@
 # Gosh C++ Coding Style
 
-By Robin Rowe 2016/12/18 rev. 2
+By Robin Rowe 2016/12/18 rev. 2016/1/5
 
 ## Version Numbering
 
