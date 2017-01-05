@@ -4,7 +4,7 @@ By Robin Rowe 2016/12/18 rev. 2
 
 ## Version Numbering
 
-	\#define PROGRAM_VERSION "0.1"
+	#define PROGRAM_VERSION "0.1"
 	
 1. Create a Version.h file that contains:
 
@@ -23,13 +23,10 @@ File layout:
 
 	// MyClass.h Short description here...
 	
-	\#ifndef MyClass_h
+	#ifndef MyClass_h
+	#define MyClass_h
 	
-	\#define MyClass_h
-	
-
-	
-	\#endif
+	#endif
 	
 1. FirstCap class names.
 2. camelCase variable names. 
@@ -132,13 +129,9 @@ To silence unused variable warning:
 		return x;
 	}
 
-1. Don't comment out large sections of code with // or /* */.
+1. Don't comment out large sections of code with // or /* */. To comment out large sections of code, for example, because you intend to remove the code later, use preprocessor directive.
 
-To comment out large sections of code, for example, because you intend to remove the code later, use preprocessor directive.
-
-2. Don't comment-out or remove function parameter names to silence compiler warnings about unused variables in function parameters. Cast to void instead.
-
-Of course, it's generally best to remove unused parameters entirely.	
+2. Don't comment-out or remove function parameter names to silence compiler warnings about unused variables in function parameters. Cast to void instead. Of course, it's generally best to remove unused parameters entirely.	
 	
 ## Memory Management
 
