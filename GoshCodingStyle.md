@@ -22,13 +22,13 @@ By Robin Rowe 2016/12/18 rev. 2
 
 	// MyClass.h Short description here...
 	
-	#ifndef MyClass_h
-	#define MyClass_h
+	\#ifndef MyClass_h
+	\#define MyClass_h
 	...
-	#endif
+	\#endif
 
 6. Avoid Microsoft-style Hungarian naming.
-7. Avoid snake_case.
+7. Avoid snake_case. Never leading or trailing underscores.
 8. Name files the same as the class they contain:
 
 	FirstCap.h
