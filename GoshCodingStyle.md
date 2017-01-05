@@ -6,11 +6,11 @@ By Robin Rowe 2016/12/18 rev. 2
 
 	#define PROGRAM_VERSION "0.1"
 	
-1. Create a Version.h file that contains:
+1. Create a Version.h file that contains above.
 
 2. Display the version # when the program runs. Use printf() in a console app or display it in the About box for a GUI app.
 
-3. Bump the version number whenever you development is "done". That is, for each build turned over for testing. So, at the end of your sprint or end of a SQA clean-up.
+3. Bump the version number whenever you development is "done". That is, for each build turned over for testing. So, at the end of your sprint or end of an SQA clean-up. Note there is "done" and "done-done". "Done" means code complete or bug fixes completed. "Done-done" means tested and signed off.
 
 ## Naming Conventions
 
