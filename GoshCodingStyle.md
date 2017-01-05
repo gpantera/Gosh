@@ -66,8 +66,6 @@ Not...
 
 ## Class Layout
 
-1. Use comma-first in initializer (only). 
-
 	class Point
 	{	int x;
 		int y;
@@ -79,6 +77,8 @@ Not...
 		,	z(0)
 		{}
 	};
+
+1. Use comma-first in initializer (only). 
 
 2. Organize class members with private members first. This is the default for classes, so no need to specify private. (Private members first because it makes code review go faster.) 
 
