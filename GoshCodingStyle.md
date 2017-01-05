@@ -26,7 +26,8 @@ By Robin Rowe 2016/12/18 rev. 2
 	
 	\#define MyClass_h
 	
-	...
+
+	
 	\#endif
 
 6. Avoid Microsoft-style Hungarian naming.
