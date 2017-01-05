@@ -14,7 +14,7 @@
 
 6. Payment due upon completion of sprint. If the Contractor completes early, Company pays early. Complete means all features implemented per sprint's design spec and software passes Company SQA (typically takes less than 48 hours).
 
-7. For tax purposes, contractor is a citizen of __[Country]__ and is based in __[Country]__.
+7. For tax purposes, contractor is a citizen of __[You fill this in: Country]__ and is based in __[You fill this in: Country]__.
 
 ## Bid Procedure
 
