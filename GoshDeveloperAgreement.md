@@ -1,6 +1,6 @@
 # Gosh Development Agreement
 
-2016/12/18 rev. 2017/1/5
+2016/12/18 rev. 2017/1/5 rev. 2017/1/16
 
 1. Development is a work-for-hire that belongs to the Company Gosh.
 
@@ -14,7 +14,9 @@
 
 6. Payment due upon completion of sprint. If the Contractor completes early, Company pays early. Complete means all features implemented per sprint's design spec and software passes Company SQA (typically takes less than 48 hours).
 
-7. For tax purposes, contractor is a citizen of __[You fill this in: Country]__ and is based in __[You fill this in: Country]__.
+7. For tax purposes, Contractor is a citizen of __[You fill this in: Country]__ and is based in __[You fill this in: Country]__.
+
+8. Contractor is not authorized to go over budget. If Contractor thinks that the tasks specified will exceed the budget or seems unreasonable effort, he will stop work immediately and inform the Company. 
 
 ## Bid Procedure
 
