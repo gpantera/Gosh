@@ -18,7 +18,7 @@
 
 8. Contractor is not authorized to go over budget. If Contractor thinks that the tasks specified will exceed the budget or seems unreasonable effort, he will stop work immediately and inform the Company. 
 
-9. Contractor is not authorized to change the design spec. In order to build what the Company wants, the Contractor must questions. Some design choices already made will not be found documented in the Company's concise Agile design spec.
+9. Contractor is not authorized to change the design spec. In order to build what the Company wants, the Contractor must ask questions. Some design choices that have already been made will not be found documented in the Company's concise Agile design spec.
 
 10. If Contractor needs a day off or has an emergency that stops work for the day, Contractor will inform the Company as soon as feasible.  The Company is results-driven and does not monitor the hours Contractor works. During the work week, Contractor will respond to Company emails in less than 24 hours.
 
