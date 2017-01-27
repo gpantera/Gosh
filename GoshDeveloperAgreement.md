@@ -22,6 +22,8 @@
 
 10. If Contractor needs a day off or has an emergency that stops work for the day, Contractor will inform the Company as soon as feasible.  The Company is results-driven and does not monitor the hours Contractor works. During the work week, Contractor will respond to Company emails in less than 24 hours.
 
+11. Contractor will follow the Company coding style guidelines.
+
 ## Bid Procedure
 
 Please paste our developer agreement above into your bid. Set your completion date to be one week later than when you expect to be code complete, so we have time for testing. Do not break payments into milestones. Bid for the entire sprint.
