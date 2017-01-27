@@ -1,6 +1,6 @@
 # Gosh Development Agreement
 
-2016/12/18 rev. 2017/1/5 rev. 2017/1/16
+2016/12/18 rev. 2017/1/5 2017/1/16 2017/1/27
 
 1. Development is a work-for-hire that belongs to the Company Gosh.
 
@@ -18,8 +18,12 @@
 
 8. Contractor is not authorized to go over budget. If Contractor thinks that the tasks specified will exceed the budget or seems unreasonable effort, he will stop work immediately and inform the Company. 
 
+9. Contractor is not authorized to change the design spec. In order to build what the Company wants, the Contractor must questions. Some design choices already made will not be found documented in the Company's concise Agile design spec.
+
+10. If Contractor needs a day off or has an emergency that stops work for the day, Contractor will inform the Company as soon as feasible.  The Company is results-driven and does not monitor the hours Contractor works. During the work week, Contractor will respond to Company emails in less than 24 hours.
+
 ## Bid Procedure
 
-Please paste our developer agreement above into your bid. Set completion date to be one week later than when you expect to be code complete, so we have time for testing. Do not break payments into milestones. Bid for the entire sprint.
+Please paste our developer agreement above into your bid. Set your completion date to be one week later than when you expect to be code complete, so we have time for testing. Do not break payments into milestones. Bid for the entire sprint.
 
 -000-
