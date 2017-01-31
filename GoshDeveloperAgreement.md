@@ -1,6 +1,6 @@
 # Gosh Development Agreement
 
-2016/12/18 rev. 2017/1/5 2017/1/16 2017/1/27 2017/1/31
+2016/12/18 rev. 2017/1/31
 
 1. Development is a work-for-hire that belongs to the Company Gosh.
 
