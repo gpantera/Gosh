@@ -20,12 +20,14 @@
 
 9. Contractor is not authorized to change the design spec. In order to build what the Company wants, the Contractor must ask questions. Some design choices that have already been made will not be found documented in the Company's concise Agile design spec.
 
-10. If Contractor needs a day off or has an emergency that stops work for the day, Contractor will inform the Company as soon as feasible.  The Company is results-driven and does not monitor the hours Contractor works. During the work week, Contractor will respond to Company emails in less than 24 hours.
+10. The Company is results-driven and does not monitor the hours Contractor works. During the work week, Contractor will respond to Company emails in less than 24 hours. If Contractor needs a day off or has an emergency that stops work for the day, Contractor will inform the Company as soon as feasible.
 
 11. Contractor will follow the Company coding style guidelines.
 
+12. At completion of the sprint, Contractor will invoice the Company by email with a message stating what project, what sprint, what amount, and by what method the Contractor prefers to be paid.
+
 ## Bid Procedure
 
-Please paste our developer agreement above into your bid. Set your completion date to be one week later than when you expect to be code complete, so we have time for testing. Do not break payments into milestones. Bid for the entire sprint.
+Please paste our developer agreement above into your bid or email. Set your completion date to be one week later than when you expect to be code complete, so we have time for testing. Do not break payments into milestones. Bid for the entire sprint.
 
 -000-
