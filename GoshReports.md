@@ -31,6 +31,6 @@ Each column is simply one product sprint. Each card is a task. Don't move cards 
 
 Typically no comments need to be added. What few comments we use are reference links, such as a link to a relevant Internet standard. 
 
-As you go, add any new task that has status. Every card in a sprint/product column you are working on should have a color indicating your status with it. When a task is not on the board or not color-coded, we will get confused what you're doing. It should take under 2 minutes daily for you to keep your trello columns up to date. For developers working on only one product during a sprint, you will only have one column to update.
+As you go, add any new task that has status. Every card in a sprint/product column you are working on should have a color indicating your status with it. When a task is not on the board or not color-coded, we will get confused what you're doing. It should take under 2 minutes daily for you to keep your trello columns up to date. For developers working on only one product during a sprint, you will only have one column to update. A column will typically have 10 to 20 tasks.
 
 -000-
