@@ -29,7 +29,7 @@ We use Trello kanban in a very lightweight way, spend little time at it. However
 
 We're not using the typical Kanban schema of Backlog-Sprinting-Testing-Done, where you drag a task/card to the right to show progress in time. 
 
-Each column is simply one product sprint. Each card is a task. Don't move cards between columns. Simply update the color label to show status. It works like a systems indicator dashboard. The color-coding system is based on the red-yellow-green of traffic lights. When you first look at your sprint in Trello, mark every task as blue, unless you don't understand what it means or what to do with that task.
+Each column is simply one product sprint. Each card is a task. Don't move cards between columns. Simply update the color label to show status. It works like a systems indicator dashboard. The color-coding system is based on the red-yellow-green of traffic lights. When you first look at your sprint in Trello, mark every task as blue, unless you don't understand what a task means. If you don't understand what to do to implement a task or are blocked, mark it as red. Do not mark tasks as black. That's for your manager to decide.
 
 Typically no comments need to be added. What few comments we use are reference links, such as a link to a relevant Internet standard. 
 
