@@ -21,6 +21,8 @@ Give a concise update of what was completed today and what you're working on nex
 - Green: Done, checked in, and ready for testing by SQA 
 - Black: Will not be implemented
 
+To set the color-coding label in trello, click on the pen icon in the top-right corner of a card. Pick {Edit Labels}, the first choice on the popup. Click to toggle the color you want.
+
 ## Displaying Status in Trello
 
 We use Trello kanban in a very lightweight way, spend little time at it. However, it is important.
