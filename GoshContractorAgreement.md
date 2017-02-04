@@ -10,13 +10,13 @@ Bid by email. Paste this agreement into your bid. Fill in the blanks below with 
 
 The following terms apply to all work done with us, unless there is an agreement in writing otherwise.
 
-1. Contractor ___[You fill this in: Your name]___ will keep confidential the Company's confidential business plans and trade secrets.
+1. All work is a work-for-hire that belongs to the Company Gosh!TV.
 
-2. For tax purposes, Contractor is a citizen of __[You fill this in: Country]__ and is based in __[You fill this in: Country]__.
+2. Contractor ___[You fill this in: Your name]___ will keep confidential the Company's confidential business plans and trade secrets.
 
-3. Contractor will email daily progress updates Monday to Friday, a note saying what's done and what he or she is implementing next. End-of-day progress reports will generally be expected at ___[You fill this in: Specify a time that's normally the end of your business day, so we know when to expect your reports.  California PST, that is, GMT -8, not your local time.]___ PST.
+3. For tax purposes, Contractor is a citizen of ___[You fill this in: Country]___ and is based in ___[You fill this in: Country]___.
 
-4. All work is a work-for-hire that belongs to the Company Gosh!TV.
+4. Contractor will email daily progress updates Monday to Friday, a note saying what's done and what he or she is implementing next. End-of-day progress reports will generally be expected at ___[You fill this in: Specify a time that's normally the end of your business day, so we know when to expect your reports.  California PST, that is, GMT -8, not your local time.]___ PST.
 
 5. The Company is results-driven and does not monitor the hours Contractor works. If Contractor needs a day off or has an emergency that stops work for the day, Contractor will inform the Company as soon as feasible.
 
