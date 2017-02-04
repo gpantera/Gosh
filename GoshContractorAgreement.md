@@ -28,7 +28,7 @@ The following terms apply to all work done with us, unless there is an agreement
 
 9. Contractor will follow the Company style guidelines.
 
-10. Contractor is not authorized to go over budget. If Contractor thinks that the tasks specified will exceed the budget or become unreasonable effort, the Contractor will stop work immediately and inform the Company. 
+10. Contractor is not authorized to go over budget. If Contractor thinks that the tasks specified will exceed the budget or become unreasonable effort, the Contractor will stop work immediately and inform the Company. Company policy for workers who expect to be paid for unauthorized cost overruns is termination. 
 
 11. If Contractor has underbid, inform the Company immediately. Maybe adjustments can be made. What task was a surprise? Why is it taking more effort than the Contractor expected? With hindsight, what should have been Contractor's bid?
 
