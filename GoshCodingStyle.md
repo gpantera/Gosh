@@ -1,38 +1,41 @@
 # Gosh C++ Coding Style
 
-By Robin Rowe 2016/12/18 rev. 2
+By Robin Rowe 2016/12/18 rev. 2017/1/5
 
 ## Version Numbering
 
-1. Create a Version.h file that contains:
-
 	#define PROGRAM_VERSION "0.1"
+	
+1. Create a Version.h file that contains above.
 
 2. Display the version # when the program runs. Use printf() in a console app or display it in the About box for a GUI app.
 
-3. Bump the version number whenever you development is "done". That is, for each build turned over for testing. So, at the end of your sprint or end of a SQA clean-up.
+3. Bump the version number whenever you development is "done". That is, for each build turned over for testing, at the end of your sprint or end of an SQA clean-up. Note there is "done" and "done-done". "Done" means code complete or bug fixes completed. "Done-done" means tested and signed off.
 
 ## Naming Conventions
 
-1. FirstCap class names.
-2. camelCase variable names. 
-3. ALL_CAPS for enums and #defined constants.
-4. Braces aligned, not as C-style hanging.
-5. Header include guards use same case as class name.
+File names:
+
+	FirstCap.h
+	FirstCap.cpp
+
+File layout:
 
 	// MyClass.h Short description here...
 	
 	#ifndef MyClass_h
 	#define MyClass_h
-	...
+	
 	#endif
-
+	
+1. FirstCap class names.
+2. camelCase variable names. 
+3. ALL_CAPS for enums and #defined constants.
+4. Braces aligned, not as C-style hanging.
+5. Header include guards use same case as class name.
 6. Avoid Microsoft-style Hungarian naming.
-7. Avoid snake_case.
+7. Avoid snake_case. Never leading or trailing underscores.
 8. Name files the same as the class they contain:
-
-	FirstCap.h
-	FirstCap.cpp
 
 ## Braces
 
@@ -63,29 +66,28 @@ Not...
 
 ## Class Layout
 
-1. Use comma-first in initializer (only).
-
 	class Point
 	{	int x;
 		int y;
 		int z;
+		Trace();
 	public:
 		Point()
 		:	x(0)
 		,	y(0)
 		,	z(0)
 		{}
+		Point(int x,int y,int z)
+		:	x(x)
+		,	y(y)
+		,	z(z)
+		{}
+		Print();
 	};
 
-2. Organize class members with private members first. This is the default for classes, so no need to specify private. (Private members first because it makes code review go faster.)
+1. Use comma-first in initializer (only). 
 
-	class Foo
-	{	int x;
-		void DangerousBar();
-	public:
-		Foo();
-		Bar();
-	};
+2. Organize class members with private members first. This is the default for classes, so no need to specify private. (Private members first because it makes code review go faster.) 
 
 ## OOP
 
@@ -113,22 +115,22 @@ We use libunistd portable::CommandLine for parsing. When creating a new program 
  
 ## Comments
 
-1. Don't comment out large sections of code with // or /* */.
-
-To comment out large sections of code, for example, because you intend to remove the code later, use preprocessor directive.
+To comment out a big block:
 
 	#if 0
 	
 	#endif
 
-2. Don't comment-out or remove function parameter names to silence compiler warnings about unused variables in function parameters. Cast to void instead.
+To silence unused variable warning:
 
 	int Foo(int x,int y)
 	{	(void) y;
 		return x;
 	}
 
-Of course, it's generally best to remove unused parameters entirely.	
+1. Don't comment out large sections of code with // or /* */. To comment out large sections of code, for example, because you intend to remove the code later, use preprocessor directive.
+
+2. Don't comment-out or remove function parameter names to silence compiler warnings about unused variables in function parameters. Cast to void instead. Of course, it's generally best to remove unused parameters entirely.	
 	
 ## Memory Management
 
@@ -177,12 +179,6 @@ Qt example:
 
 ## Threads
 
-1. Use std::thread where needed to make app responsive.
-
-2. Avoid creating more than a few threads. 
-
-3. Use thread(Main,this) to launch a thread on yourself:
-
 	class Foo
 	{   std::mutex fooMutex;
 		std::condition_variable fooCondition;
@@ -215,6 +211,12 @@ Qt example:
 			Wake();
 		}
 	};
+
+1. Use std::thread where needed to make app responsive.
+
+2. Avoid creating more than a few threads. 
+
+3. Use thread(Main,this) to launch a thread on yourself:
 
 Use unique_lock in your thread loop, lock_guard other threads.
 

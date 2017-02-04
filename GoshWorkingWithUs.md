@@ -1,6 +1,6 @@
 # Working with Us
 
-By Robin Rowe 2017/1/1
+By Robin Rowe 2017/1/1 rev. 2017/1/5
 
 We organize development tasks into 1-week sprints.
 
@@ -34,5 +34,23 @@ Developer will desk-check his code and commit changes to git daily. We do SQA at
 Docs are written in markdown format and saved as .md files, not as .txt. Markdown uses a simple syntax that greatly improves readability.
 
 [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
+
+## Common Mistakes to Avoid
+
+1. Bid an amount greater than our stated budget or make a "placeholder" bid.
+
+2. Create a bid that offers no details of why to hire you.
+
+3. Not have your actual name show in your profile.
+
+4. Not show your own headshot in your profile.
+
+5. Refuse to provide your resume.
+
+7. Be difficult by taking too many go-backs for a task that could have been done-in-one.
+
+8. Be unresponsive by taking longer than a business day to respond to messages.
+
+9. Be unreliable or forgetful by not doing what you said you would do.
 
 --000--
