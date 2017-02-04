@@ -8,9 +8,18 @@ We organize development tasks into 1-week sprints.
 
 Make your bid on Guru. We will contact you to ask for your resume if you are a top candidate.
 
+## Common Mistakes to Avoid 
+
+1. Bid an amount greater than our stated budget or make a "placeholder" bid.
+2. Create a bid that offers no details of why to hire you.
+3. Not show your real name as your Guru username.
+4. Not show your own headshot in your Guru profile.
+5. Refuse to provide your resume.
+6. Refuse to provide references.
+
 ## Deliverables
 
-Progress reports (a brief email), and code check-ins to git, are due at the end of each work day. That is, every weekday during your development. 
+At the end of your work day, progress reports (a brief email), and code check-ins to git, are due. That is, every weekday during your development. 
 
 ## Schedule
 
@@ -18,20 +27,12 @@ Development per our design spec should take about a week. Add one week to the yo
 
 ## Testing
 
-Developer is expected to desk-check his code and commit changes to git daily. We do SQA at the end of the sprint, sometimes during sprint. Our SQA test cycle normally takes 48 hours and expects to find about a dozen bugs or minor missing features or spec misunderstandings/omissions. Typically, the developer can fix all these in less than a day. Second SQA cycle after bug-fixes expects to find a few nitpicks. Normally able to sign off after third SQA tests. 
+Developer will desk-check his code and commit changes to git daily. We do SQA at the end of the sprint, sometimes during sprint. Our SQA test cycle normally takes 48 hours and expects to find about a dozen bugs or minor missing features or spec misunderstandings/omissions. Typically, the developer can fix all these in less than a day. Second SQA cycle after bug-fixes expects to find a few nitpicks. Normally able to sign off after third SQA tests. 
 
-## Common Mistakes to Avoid (Automatically Disqualified)
+## Writing Docs
 
-1. Bid an amount greater than our stated budget or make a "placeholder" bid.
+Docs are written in markdown format and saved as .md files, not as .txt. Markdown uses a simple syntax that greatly improves readability.
 
-2. Create a bid that offers no details of why to hire you.
-
-3. Not have your actual name as your Guru username.
-
-4. Not show your own headshot in your Guru profile.
-
-5. Refuse to provide your resume.
-
-6. Refuse to provide references.
+[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
 
 --000--
