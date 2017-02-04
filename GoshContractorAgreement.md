@@ -4,7 +4,7 @@
 
 ## Sprint Bid Instructions
 
-Bid by email. Paste this agreement into your bid. Fill in the blanks below with your details. When calculating a completion date for billing, make it one week later than when you expect your work to be complete, so we have time for testing. Do not break payments into milestones. Bid for the entire sprint.
+Bid by email. Paste this agreement into your bid. Fill in the blanks below with your details. Do not break payments into milestones. Bid for the entire sprint. The Company typically manages work in 1-week sprints.
 
 ## Sprint Terms
 
@@ -28,12 +28,18 @@ The following terms apply to all work done with us, unless there is an agreement
 
 9. Contractor is not authorized to go over budget. If Contractor thinks that the tasks specified will exceed the budget or become unreasonable effort, the Contractor will stop work immediately and inform the Company. 
 
-10. Contractor will tell the Company if he or she has underbid. Maybe adjustments can be made. What task was a surprise? Why is it taking more effort than expected? With hindsight, what should bid have been?
+10. If Contractor has underbid, inform the Company immediately. Maybe adjustments can be made. What task was a surprise? Why is it taking more effort than the Contractor expected? With hindsight, what should have been Contractor's bid?
 
-11. Contractor is not authorized to change the design spec. Some design choices may not have been documented in the original spec. In order to build what the Company wants, the Contractor must ask questions.
+11. Contractor is not authorized to change the design spec. Not all design choices can be documented in the original spec. In order to build what the Company wants, the Contractor must ask questions.
 
 12. No payment for a sprint half done. If Contractor disappears or can't complete in a timely way, any effort he or she may have started on the current sprint will not be compensated.
 
-13. Payment due upon completion of sprint. At completion of the sprint, Contractor will invoice the Company by email with a message stating what project, what sprint, what amount, and by what method the Contractor prefers to be paid. Complete means all features implemented per sprint's design spec and software passes Company SQA. Company policy is to pay promptly, not age invoices.
+13. Payment due upon completion and verification of sprint. At completion of the sprint, Contractor will invoice the Company by email with a message stating what project, what sprint, what amount, and by what method the Contractor prefers to be paid. Complete means all features implemented per sprint's design spec, Verification means work passes Company SQA. Company policy is to pay promptly, not to age invoices.
+
+## Writing Docs
+
+If contractor is writing project documentation, docs will be written in markdown format and saved as .md files. Markdown syntax:
+
+[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
 
 -000-
