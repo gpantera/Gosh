@@ -36,7 +36,9 @@ The following terms apply to all work done with us, unless there is an agreement
 
 13. No payment for a sprint half done. If Contractor disappears or can't complete in a timely way, any effort he or she may have started on the current sprint will not be compensated.
 
-14. Payment due upon completion and verification of sprint. At completion of the sprint, Contractor will invoice the Company by email with a message stating what project, what sprint, what amount, and by what method the Contractor prefers to be paid. Complete means all features implemented per sprint's design spec. Verification means work passes Company SQA. Company policy is to pay promptly, not to age invoices.
+14. At completion of the sprint, Contractor will invoice the Company by email with a message stating what project, what sprint, what amount, and by what method the Contractor prefers to be paid. Complete means all features implemented per sprint's design spec. That's sufficient invoice for Paypal. To be paid on Guru Contractor will also need to create an invoice there.
+
+15. Payment due upon verification of sprint. Verification means work passes Company SQA. Company policy is to pay promptly, not to age invoices.
 
 ## Writing Docs
 
