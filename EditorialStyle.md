@@ -45,18 +45,13 @@ Name of movie or TV show italicized with website link attached. That’s the net
 
 1. Make sure all hot links are set to “Open in new Window” click on the little settings icon. A new window will open. Check box there and save. (May not be able to do this until we add feature to Word Press.)
 
-1. When starting paragraph about show, start with title of show or movie then the actors’ name the character name. No parenthesis in these paragraphs.
+1. When starting paragraph about show, start with title of show or movie then the actors’ name the character name. No parenthesis in these paragraphs. Example: In Finding Father Christmas, Erin Krakow is Seattle interior designer Miranda Chester…
 
-Example:  In Finding Father Christmas, Erin Krakow is Seattle interior designer Miranda Chester…
-
-1. Check if based on a book, especially for Hallmark. Look up title in Amazon. If so, include The author and if the name of the book is different from the title of the Movie. Also Include any author website links. 
-
-Example: Based on the book by Robin Jones Gunn. Gunn has a series of father Christmas books.
+1. Check if based on a book, especially for Hallmark. Look up title in Amazon. If so, include The author and if the name of the book is different from the title of the Movie. Also Include any author website links. Example: Based on the book by Robin Jones Gunn. Gunn has a series of father Christmas books.
 
 1. The stars names will appear in paragraph form, with the characters names in parenthesis, along with the production company, then producers and directors and writers, all sentence format.
 
-1. The network description should be only two sentences, and will be attached to the paragraph above. **Depending on if it’s a Hallmark Movie & Mysteries movie or regular Hallmark movie, switch which goes first** For Hallmark, use the two-sentence Hallmark description:
-Hallmark Movies & Mysteries and Hallmark Channel are owned by Crown Media Family Networks.  They are distributed to 66 million U.S. homes.
+1. The network description should be only two sentences, and will be attached to the paragraph above. **Depending on if it’s a Hallmark Movie & Mysteries movie or regular Hallmark movie, switch which goes first** For Hallmark, use the two-sentence Hallmark description: Hallmark Movies & Mysteries and Hallmark Channel are owned by Crown Media Family Networks.  They are distributed to 66 million U.S. homes.
 
 1. Include the twitter handles of the movie names, actors, network. If not included in the PR release go to twitter and get. 
 
