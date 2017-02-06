@@ -33,7 +33,7 @@ Subhead...
 
 By Gabrielle Pantera
 
-HOLLYWOOD, CA (Hollywood Daily Star) 2017/1/12 – “First sentence of quote goes here,” says ___Superstore___ star America Ferrara. “Always place the details on who is speaking after the first sentence. If there is more then one sentence after that is fine.” 
+HOLLYWOOD, CA (Hollywood Daily Star) 2017/1/12 – “First sentence of quote goes here,” says ___Superstore___ star America Ferrera. “Always place the details on who is speaking after the first sentence. If there is more then one sentence after that is fine.” 
 
 Name of movie or TV show italicized with website link attached. That’s the network's website for the show, not IMDB.
 
