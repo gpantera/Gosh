@@ -4,7 +4,7 @@ Gabrielle Pantera 2017/2/6 rev. 0
 
 ## Trello
 
-Trello is not have a field for deadline. We are using the Due Date field instead. The deadline is the date the article goes live. The deadline to complete drafting an article is two days before the deadline.
+Trello does not have a field for deadline. We are using the Due Date field instead. The deadline is the date the article goes live. Your deadline to complete drafting an article is two days before the release deadline.
 
 1. List all articles on Trello first. 
 2. Arrange cards in date order.
